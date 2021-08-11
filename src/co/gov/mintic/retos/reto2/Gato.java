@@ -1,3 +1,8 @@
+/*
+ * @author diani
+ * Created on: Aug-2021
+ */
+
 package co.gov.mintic.retos.reto2;
 
 public class Gato extends Mascota {

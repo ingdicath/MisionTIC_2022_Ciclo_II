@@ -22,5 +22,5 @@ Tres enteros separados por espacio que representan las distancias a Terra, Loona
 
 |   Entrada |     Salida    |
 | ----------| --------------|
-| 78        | 78 360 47     |
+| 178        | 178 360 47     |
 |           | cuatro        |

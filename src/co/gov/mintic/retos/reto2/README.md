@@ -7,7 +7,7 @@ El Dr. Stuart Pequeño quiere encomendarle el desarrollo de un pequeño demo de 
 
 Considere la especificación del siguiente diagrama de clases para este reto:
 
-<br ><p align="center"><img src="Reto_2_UML.png" width="60%" height="60%"></p>
+<br ><p align="center"><img height="60%" src="Reto_2_UML.png" width="60%"/></p>
 
 
 ### Procesar Comandos
