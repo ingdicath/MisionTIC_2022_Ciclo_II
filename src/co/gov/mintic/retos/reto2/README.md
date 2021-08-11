@@ -1,21 +1,20 @@
-#Reto 2
+# Reto 2
 
 
-##La Tienda Veterinaria Pooopis
+## La Tienda Veterinaria Pooopis
 
 El Dr. Stuart Pequeño quiere encomendarle el desarrollo de un pequeño demo de aplicación de la tienda y clínica veterinaria Pooopis.  Se desea hacer un registro de todas las mascotas que pasan por la clínica. Para ello se define una clase llamada Mascota. Una Mascota tiene nombre, peso, edad y documento del propietario. Se tienen dos tipos de mascota: Perro y Gato. Si es perrito, se debe identificar la marca de hueso que consume. Si es Gato se debe registrar inicialmente la marca de arena de gato que consume.
 
 Considere la especificación del siguiente diagrama de clases para este reto:
 
-<p align="center"><img src="src/co/gov/mintic/retos/reto2/Reto_2_UML.png" width="60%" height="60%"></p>
+<br ><p align="center"><img src="Reto_2_UML.png" width="60%" height="60%"></p>
 
-![Demo bonus part](src/co/gov/mintic/retos/reto2/Reto_2_UML.png)
 
-###Procesar Comandos
+### Procesar Comandos
 
 En la clase MisClientes, se debe definir la función procesar comandos que realiza las siguientes operaciones:
 
-####<br >Agregar Mascota: Opción 1
+#### <br >Agregar Mascota: Opción 1
 
 Se puede añadir un perrito el siguiente comando:
 
@@ -33,7 +32,7 @@ Ejemplo:
 
 `1&Gato&Sam&4.1&26&1FB3CD&CanadaLitter`
 
-####<br >Listar ítems del inventario: Opción 2
+#### <br >Listar ítems del inventario: Opción 2
 
 Se debe mostrar la frase: “***Clientes***” Seguida por las mascotas en el orden en el que fueron agregadas.
 
@@ -56,7 +55,7 @@ Nombre: Sam
     Marca arena: CanadaLitter
 ```
 
-####<br >Salir: Opción 3
+#### <br >Salir: Opción 3
 
 **Nota 1**: Observe que el único comando que tiene salida es el listar.
 
@@ -72,18 +71,18 @@ Nombre: Sam
 
 
 
-Ejemplo:
+### Ejemplo:
 
 Un ejemplo de ejecución del programa es el siguiente:
 
-####Entrada
+#### Entrada
 
 `1&Perro&Max&12.3&48&18282727&Laikal`
 <br >`1&Gato&Sam&4.1&26&1FB3CD&CanadaLitter`
 <br >`2`
 <br >`3`
 
-####Salida
+#### Salida
 ```
 ***Clientes***                                                                
 Nombre: Max                                                                     
