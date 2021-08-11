@@ -1,4 +1,4 @@
-#Reto 1
+# Reto 1
 
 Odtimuz ha sido atacado por los Dieserticonz y ha perdido parte de su memoria. Recuerda parcialmente algunas distancias de 3 planetas que puede utilizarlas para reabastecerse y reparar parte de su armadura.
 
@@ -10,15 +10,15 @@ Odtimuz pudo realizar algunos cálculos desde su ubicación estelar. Él recuerd
 
 Ayude a Odtimuz elaborando un programa que, dada la distancia a Terra, imprima las distancias a Terra, Loona y Zaibertron, separadas por un espacio. Adicionalmente, el programa debe indicar en la siguiente línea, la categoría del planeta Zaibertron.
 
-##Entrada
+## Entrada
 
 La entrada es un número entero que representa la distancia a Terra.
 
-##Salida
+## Salida
 
 Tres enteros separados por espacio que representan las distancias a Terra, Loona y Zaibertron, separadas por un espacio. En la siguiente línea en letras la categoría del planeta Zaibertron.
 
-##Ejemplo
+## Ejemplo
 
 |   Entrada |     Salida    |
 | ----------| --------------|
